@@ -1,4 +1,1 @@
-
-.ipynb_checkpoints/worksheet-checkpoint.ipynb
-.ipynb_checkpoints/text_preprocessing-checkpoint.ipynb
-.ipynb_checkpoints/text_generation_baseline_lstm-checkpoint.ipynb
+.ipynb_checkpoints/*
